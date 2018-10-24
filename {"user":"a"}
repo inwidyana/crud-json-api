@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Host: localhost:8000
+Date: Wed, 24 Oct 2018 14:44:12 +0000
+Connection: close
+X-Powered-By: PHP/7.2.10-0ubuntu0.18.04.1
+Cache-Control: no-cache, private
+Date: Wed, 24 Oct 2018 14:44:12 GMT
+Content-Type: application/json
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 59
+
